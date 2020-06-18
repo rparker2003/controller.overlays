@@ -232,12 +232,12 @@ background-position: 0 -70px;
     position: absolute;
 }
 
-.custom .face.up, .ds4 .face.down {
+.custom .face.up, .custom .face.down {
     width: 36px;
     height: 52px;
 }
 
-.custom .face.left, .ds4 .face.right {
+.custom .face.left, .custom .face.right {
     width: 52px;
     height: 36px;
 }

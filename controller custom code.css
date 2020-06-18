@@ -120,14 +120,14 @@ background-position: 0 -70px;
     left: 227px;
 }
 
-.custom .back, .ds4 .start {
+.custom .back, .custom .start {
     background: url(https://imgur.com/ffanGa5.png);
     width: 28px;
     height: 46px;
     opacity: 0;
 }
 
-.custom .back.pressed, .ds4 .start.pressed {
+.custom .back.pressed, .custom .start.pressed {
     /* background-position-y: -21px; */
     /* margin-top: 2px; */
     opacity: 1;

@@ -1,5 +1,5 @@
 .controller.custom {
-    background: url(https://imgur.com/zU3WmZS.png);
+    background: url(https://imgur.com/WpqwTf6.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -7,7 +7,7 @@
 }
 
 .custom.disconnected {
-    background: url(https://imgur.com/gQTsEzM.png);
+    background: url(https://imgur.com/31UzbpS.png);
 }
 
 .custom.disconnected div {
@@ -24,7 +24,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://imgur.com/KA5USer.png);
+    background: url(https://imgur.com/Y0nYcjj.png);
     opacity: 0;
 }
 
@@ -40,7 +40,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://imgur.com/M4rPWfZ.png) no-repeat;
+    background: url(https://imgur.com/SZcJXvS.png) no-repeat;
     opacity: 0;
 }
 
@@ -76,7 +76,7 @@
 }
 
 .custom .touchpad.pressed {
-    background: url(https://imgur.com/1MlhZYo.png) no-repeat center;
+    background: url(https://imgur.com/N2EJB9A.png) no-repeat center;
 }
 
 .custom .meta {
@@ -88,7 +88,7 @@
 }
 
 .custom .meta.pressed {
-    background: url(https://imgur.com/hEJSxPI.png) no-repeat center;
+    background: url(https://imgur.com/CPtrhD6.png) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -121,7 +121,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(https://imgur.com/9hpi2Ly.png);
+    background: url(https://imgur.com/KgW9fN2.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/kCQARso.png);
+    background: url(https://imgur.com/xmio1Uc.png);
 }
 
 .custom .button.pressed {
@@ -196,7 +196,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(https://imgur.com/dOUpPER.png);
+    background: url(https://imgur.com/7tZpZYa.png);
     height: 94px;
     width: 94px;
 }
@@ -228,7 +228,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(https://imgur.com/y4V9LUM.png);
+    background: url(https://imgur.com/YT5jL0z.png);
     position: absolute;
 }
 

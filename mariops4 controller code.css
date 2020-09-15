@@ -1,5 +1,5 @@
 .controller.custom {
-    background: url(https://i.imgur.com/s9RP2Qf.png);
+    background: url(https://imgur.com/9gIUpzB.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -7,7 +7,7 @@
 }
 
 .custom.disconnected {
-    background: url(https://i.imgur.com/KwMXvy0.png);
+    background: url(https://imgur.com/a1x1Qse.png);
 }
 
 .custom.disconnected div {
@@ -40,7 +40,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://imgur.com/nAl8uXE.png) no-repeat;
+    background: url(https://imgur.com/IqLcc6A.png) no-repeat;
     opacity: 0;
 }
 
@@ -76,7 +76,7 @@
 }
 
 .custom .touchpad.pressed {
-    background: url(https://imgur.com/dsipMot.png) no-repeat center;
+    background: url(https://imgur.com/PPtCyUg.png) no-repeat center;
 }
 
 .custom .meta {
@@ -88,7 +88,7 @@
 }
 
 .custom .meta.pressed {
-    background: url(https://imgur.com/01nzqtl.png) no-repeat center;
+    background: url(https://imgur.com/ls9a4hd.png) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -121,7 +121,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(https://imgur.com/RyGaQNZ.png);
+    background: url(https://imgur.com/9TuQaaS.png);
     width: 28px;
     height: 45px;
     opacity: 0;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/EP6embV.png);
+    background: url(https://imgur.com/DbJPMTv.png);
 }
 
 .custom .button.pressed {
@@ -196,7 +196,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(https://imgur.com/BYggS9A.png);
+    background: url(https://imgur.com/8alFNW1.png);
     height: 94px;
     width: 94px;
 }
@@ -228,7 +228,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(https://imgur.com/t2XJCex.png);
+    background: url(https://imgur.com/65QyKz2.png);
     position: absolute;
 }
 

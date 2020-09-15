@@ -1,0 +1,276 @@
+.controller.custom {
+    background: url(https://i.imgur.com/s9RP2Qf.png);
+    height: 598px;
+    width: 806px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
+}
+
+.custom.disconnected {
+    background: url(https://i.imgur.com/KwMXvy0.png);
+}
+
+.custom.disconnected div {
+    display: none;
+}
+
+.custom .triggers {
+    width: 588px;
+    height: 90px;
+    position: absolute;
+    left: 109px;
+}
+
+.custom .trigger {
+    width: 99px;
+    height: 100%;
+    background: url(https://imgur.com/C5eVj4W.png);
+    opacity: 0;
+}
+
+.custom .trigger.left {
+    float: left;
+}
+
+.custom .trigger.right {
+    float: right;
+    background-position-x: 99px;
+}
+
+.custom .bumper {
+    width: 99px;
+    height: 23px;
+    background: url(https://imgur.com/nAl8uXE.png) no-repeat;
+    opacity: 0;
+}
+
+.custom .bumpers {
+    position: absolute;
+    width: 588px;
+    height: 23px;
+    left: 109px;
+    top: 94px;
+}
+
+.custom .bumper.pressed {
+    opacity: 1;
+}
+
+.custom .bumper.left {
+    /* -webkit-transform: rotateY(180deg); */
+    /* transform: rotateY(180deg); */
+    float: left;
+}
+
+.custom .bumper.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
+.custom .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+}
+
+.custom .touchpad.pressed {
+    background: url(https://imgur.com/dsipMot.png) no-repeat center;
+}
+
+.custom .meta {
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: 382px;
+    bottom: 216px;
+}
+
+.custom .meta.pressed {
+    background: url(https://imgur.com/01nzqtl.png) no-repeat center;
+}
+
+/*Not needed, but I like keeping them here for posterity*/
+/*.custom .quadrant{
+position: absolute;
+background: url(ps4-assets/player-n.svgz);
+height: 17px;
+width: 111px;
+top: 140px;
+left: 240px;
+}
+.custom .p0{
+background-position: 0 -6px;
+}
+.custom .p1{
+background-position: 0 -28px;
+}
+.custom .p2{
+background-position: 0 -49px;
+}
+.custom .p3{
+background-position: 0 -70px;
+}*/
+.custom .arrows {
+    position: absolute;
+    width: 352px;
+    height: 46px;
+    top: 142px;
+    left: 227px;
+}
+
+.custom .back, .custom .start {
+    background: url(https://imgur.com/RyGaQNZ.png);
+    width: 28px;
+    height: 45px;
+    opacity: 0;
+}
+
+.custom .back.pressed, .custom .start.pressed {
+    /* background-position-y: -21px; */
+    /* margin-top: 2px; */
+    opacity: 1;
+}
+
+.custom .back {
+    float: left;
+    /* width: 28px; */
+}
+
+.custom .start {
+    float: right;
+    /* width: 28px; */
+    background-position: 28px 0;
+}
+
+.custom .abxy {
+    position: absolute;
+    width: 170px;
+    height: 171px;
+    top: 159px;
+    left: 567px;
+}
+
+.custom .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(https://imgur.com/EP6embV.png);
+}
+
+.custom .button.pressed {
+    background-position-y: 55px;
+    /* margin-top: 5px; */
+}
+
+.custom .a {
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
+}
+
+.custom .b {
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.custom .x {
+    background-position: -113px 0;
+    top: 58px;
+}
+
+.custom .y {
+    background-position: 55px 0;
+    left: 58px;
+}
+
+.custom .sticks {
+    position: absolute;
+    width: 361px;
+    height: 105px;
+    top: 308px;
+    left: 228px;
+}
+
+.custom .stick {
+    position: absolute;
+    background: url(https://imgur.com/BYggS9A.png);
+    height: 94px;
+    width: 94px;
+}
+
+.custom .stick.pressed.left {
+    background-position-x: -96px;
+}
+
+.custom .stick.pressed.right {
+    background-position-x: -190px;
+}
+
+.custom .stick.left {
+    top: 0;
+    left: 0;
+}
+
+.custom .stick.right {
+    top: calc(100% - 105px);
+    left: calc(100% - 105px);
+}
+
+.custom .dpad {
+    position: absolute;
+    width: 125px;
+    height: 126px;
+    top: 181px;
+    left: 92px;
+}
+
+.custom .face {
+    background: url(https://imgur.com/t2XJCex.png);
+    position: absolute;
+}
+
+.custom .face.up, .custom .face.down {
+    width: 36px;
+    height: 52px;
+}
+
+.custom .face.left, .custom .face.right {
+    width: 52px;
+    height: 36px;
+}
+
+.custom .face.up {
+    left: 44px;
+    top: 0;
+    background-position: -37px 0px;
+}
+
+.custom .face.down {
+    left: 44px;
+    bottom: 0;
+    background-position: 0px 0;
+}
+
+.custom .face.left {
+    top: 45px;
+    left: 0;
+    background-position: 104px 0;
+}
+
+.custom .face.right {
+    top: 45px;
+    right: 0px;
+    background-position: 52px 0;
+}
+
+.custom .face.pressed {
+    /* margin-top: 5px; */
+    background-position-y: 52px;
+}
+
+.custom.half {
+    margin-top: -300px;
+}

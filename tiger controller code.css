@@ -24,7 +24,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://i.imgur.com/6yXDNvN.png);
+    background: url(https://imgur.com/tBTGX4i.png);
     opacity: 0;
 }
 
@@ -76,7 +76,7 @@
 }
 
 .custom .touchpad.pressed {
-    background: url(https://imgur.com/PPtCyUg.png) no-repeat center;
+    background: url(https://imgur.com/Mlvkjpr.png) no-repeat center;
 }
 
 .custom .meta {
@@ -121,7 +121,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(https://imgur.com/9TuQaaS.png);
+    background: url(https://imgur.com/3dSv4y6.png);
     width: 28px;
     height: 45px;
     opacity: 0;
@@ -196,7 +196,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(https://imgur.com/gaCRiup.png);
+    background: url(https://imgur.com/oT793yK.png);
     height: 94px;
     width: 94px;
 }

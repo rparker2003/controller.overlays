@@ -6,46 +6,46 @@
         margin-top: -285px;*/
 }
 
-.xbox.disconnected {
-    background: url(xbox-assets/disconnected.svgz);
+.custom.disconnected {
+    background: url(https://imgur.com/hFKh4I0.png);
 }
 
-.xbox.disconnected div {
+.custom.disconnected div {
     display: none;
 }
 
-.xbox .triggers {
+.custom .triggers {
     width: 446px;
     height: 121px;
     position: absolute;
     left: 152px;
 }
 
-.xbox .trigger {
+.custom .trigger {
     width: 88px;
     height: 121px;
-    background: url(xbox-assets/trigger.svgz);
+    background: url(https://imgur.com/uq5Hioq.png);
     opacity: 0;
 }
 
-.xbox .trigger.left {
+.custom .trigger.left {
     float: left;
     background-position: 0 0;
 }
 
-.xbox .trigger.right {
+.custom .trigger.right {
     float: right;
     transform: rotateY(180deg);
 }
 
-.xbox .bumper {
+.custom .bumper {
     width: 170px;
     height: 61px;
-    background: url(xbox-assets/bumper.svgz);
+    background: url(https://imgur.com/nUxN610.png);
     opacity: 0;
 }
 
-.xbox .bumpers {
+.custom .bumpers {
     position: absolute;
     width: 536px;
     height: 61px;
@@ -53,23 +53,23 @@
     top: 129px;
 }
 
-.xbox .bumper.pressed {
+.custom .bumper.pressed {
     opacity: 1;
 }
 
-.xbox .bumper.left {
+.custom .bumper.left {
     float: left;
 }
 
-.xbox .bumper.right {
+.custom .bumper.right {
     float: right;
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
 
-.xbox .quadrant {
+.custom .quadrant {
     position: absolute;
-    background: url(xbox-assets/quadrant.svgz);
+    background: url(https://imgur.com/3EzFHcl.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -77,27 +77,27 @@
     z-index: 0;
 }
 
-.xbox .p0 {
+.custom .p0 {
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
 }
 
-.xbox .p1 {
+.custom .p1 {
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
 }
 
-.xbox .p2 {
+.custom .p2 {
     -webkit-transform: rotate(270deg);
     transform: rotate(270deg);
 }
 
-.xbox .p3 {
+.custom .p3 {
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
 }
 
-.xbox .arrows {
+.custom .arrows {
     position: absolute;
     width: 141px;
     height: 33px;
@@ -105,27 +105,27 @@
     left: 306px;
 }
 
-.xbox .back, .xbox .start {
-    background: url(xbox-assets/start-select.svgz);
+.custom .back, .custom .start {
+    background: url(https://imgur.com/tF99802.png);
     width: 33px;
     height: 33px;
     opacity: 0;
 }
 
-.xbox .back.pressed, .xbox .start.pressed {
+.custom .back.pressed, .custom .start.pressed {
     opacity: 1;
 }
 
-.xbox .back {
+.custom .back {
     float: left;
 }
 
-.xbox .start {
+.custom .start {
     background-position: 33px 0px;
     float: right;
 }
 
-.xbox .abxy {
+.custom .abxy {
     position: absolute;
     width: 153px;
     height: 156px;
@@ -170,7 +170,7 @@
     top: 7px;
 }
 
-.xbox .sticks {
+.custom .sticks {
     position: absolute;
     width: 371px;
     height: 196px;
@@ -178,29 +178,29 @@
     left: 144px;
 }
 
-.xbox .stick {
+.custom .stick {
     position: absolute;
-    background: url(xbox-assets/stick.svgz);
+    background: url(https://imgur.com/tV7r4Lu.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 
-.xbox .stick.pressed {
+.custom .stick.pressed {
     background-position: 0 0;
 }
 
-.xbox .stick.left {
+.custom .stick.left {
     top: 0;
     left: 0;
 }
 
-.xbox .stick.right {
+.custom .stick.right {
     top: 113px;
     left: 288px;
 }
 
-.xbox .dpad {
+.custom .dpad {
     position: absolute;
     width: 110px;
     height: 111px;
@@ -208,17 +208,17 @@
     left: 223px;
 }
 
-.xbox .face {
-    background: url(xbox-assets/dpad.svgz);
+.custom .face {
+    background: url(https://imgur.com/UEzvehP.png);
     position: absolute;
     opacity: 0;
 }
 
-.xbox .face.pressed {
+.custom .face.pressed {
     opacity: 1;
 }
 
-.xbox .face.up {
+.custom .face.up {
     background-position: 34px 0;
     left: 38px;
     top: 0px;
@@ -226,14 +226,14 @@
     height: 56px;
 }
 
-.xbox .face.down {
+.custom .face.down {
     left: 38px;
     bottom: 0;
     width: 34px;
     height: 56px;
 }
 
-.xbox .face.left {
+.custom .face.left {
     background-position: 0 -93px;
     width: 55px;
     height: 35px;
@@ -241,7 +241,7 @@
     left: 0;
 }
 
-.xbox .face.right {
+.custom .face.right {
     background-position: 0 -57px;
     width: 55px;
     height: 35px;
@@ -249,10 +249,10 @@
     right: 0;
 }
 
-.xbox.half {
+.custom.half {
     margin-top: -315px;
 }
 
-.xbox {
+.custom {
     background: no-repeat center;
 }

@@ -1,5 +1,5 @@
 .controller.custom {
-    background: url(https://i.imgur.com/xi4ojDR.png);
+    background: url(https://imgur.com/flMpts6.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -7,7 +7,7 @@
 }
 
 .custom.disconnected {
-    background: url(https://imgur.com/k9Cj8Ni.png);
+    background: url(https://imgur.com/y2t0wyq.png);
 }
 
 .custom.disconnected div {
@@ -24,7 +24,7 @@
 .custom .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://imgur.com/QiNY2Pp.png);
+    background: url(https://imgur.com/EgTGogC.png);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .custom .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://imgur.com/VVqumcn.png);
+    background: url(https://imgur.com/UCUy1IB.png);
     opacity: 0;
 }
 
@@ -69,7 +69,7 @@
 
 .custom .quadrant {
     position: absolute;
-    background: url(https://imgur.com/5v0o49n.png);
+    background: url(https://imgur.com/EHpSzoG.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -106,7 +106,7 @@
 }
 
 .custom .back, .xbox .start {
-    background: url(https://imgur.com/M5bxabL.png);
+    background: url(https://imgur.com/cesHYsa.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -135,7 +135,7 @@
 
 .custom .button {
     position: absolute;
-    background: url(https://imgur.com/AtMJTUz.png);
+    background: url(https://imgur.com/7G4Sg3Z.png);
     width: 48px;
     height: 48px;
 }
@@ -180,7 +180,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(https://imgur.com/1Fh2jzZ.png);
+    background: url(https://imgur.com/iL5ik8G.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -209,7 +209,7 @@
 }
 
 .custom .face {
-    background: url(https://imgur.com/H7mjDdd.png);
+    background: url(https://imgur.com/U17hc8E.png);
     position: absolute;
     opacity: 0;
 }
